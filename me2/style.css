@@ -26,7 +26,7 @@ body {
 
 
 .whole_page {
-	background-color: 292B37;
+	background-color: #292B37;
 	margin:0;
 }
 
@@ -62,7 +62,7 @@ body {
 	font-family: "Open Sans";
 	font-size: 36;
 	color: white;
-	background-color: 292B37;
+	background-color: #292B37;
 	text-align: center;
 	padding-top: 10px;
 	padding-bottom: 10px;
@@ -72,7 +72,7 @@ body {
 	font-family: "Open Sans";
 	font-size: 12;
 	color: white;
-	background-color: 292B37;
+	background-color: #292B37;
 	text-align: center;
 	padding-top: 10px;
 	padding-bottom: 10px;
@@ -93,13 +93,13 @@ body {
 
 .in_text {
 	font-family: "Open Sans", sans-serif;
-	color: FFFFFF;
+	color: #FFFFFF;
 	font-size: 20px;
 }
 
 .in_text_heading {
 	padding-left: 60px;
-	color: White;
+	color: #FFFFFF;
 	font-size: 28px;
 }
 

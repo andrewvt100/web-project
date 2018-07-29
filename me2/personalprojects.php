@@ -2,12 +2,12 @@
 
 <html>
 	<head>
-		<?php include($_SERVER['DOCUMENT_ROOT']."/head.php"); ?>
+		<?php include("head.php"); ?>
 	</head>
 	<body class="whole_page">
 		<div id="wrap">
 			<div id="main">
-		<?php include($_SERVER['DOCUMENT_ROOT']."/header.php"); ?>
+		<?php include("header.php"); ?>
 		<div class="in_text">
 			<p class="in_text_heading"> Spotify Power Hour App </p>
 			<p class="in_text_text">
@@ -34,6 +34,6 @@
 </div>
 	</body>
 	<footer>
-		<?php include($_SERVER['DOCUMENT_ROOT']."/footer.php"); ?>
+		<?php include("footer.php"); ?>
 	</footer>
 </html>
