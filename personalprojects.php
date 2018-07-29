@@ -9,8 +9,8 @@
 			<div id="main">
 		<?php include("header.php"); ?>
 		<div class="in_text">
-			<p class="in_text_heading"> <a class = "header_link" href="../haunted/haunted_index.html"> Haunted Mansion </a> </p>
-			<p class="in_text_heading"> <a class = "header_link" href="../grateful/grateful_index.html"> What Are You Grateful For Today? </a> </p>
+			<p class="in_text_heading"> <a class = "header_link" href="haunted/haunted_index.html"> Haunted Mansion </a> </p>
+			<p class="in_text_heading"> <a class = "header_link" href="grateful/grateful_index.html"> What Are You Grateful For Today? </a> </p>
 			<p class="in_text_heading"> <font color="#FF3B3F"> Power Pregame </font>  </p>
 			<p class="in_text_text">
 				A unreleased app that harnesses your Spotify playlists to guarantee a perfect pregame, every time.
