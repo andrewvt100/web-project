@@ -11,9 +11,12 @@
 		<?php include("header.php"); ?>
 		<div class="in_text">
 			<p class="in_text_text">
-				My name is Andrew van Tonningen, and I am a senior Computer Science major and Regents Scholar at UC Davis, set to graduate in June of 2018.  During the various chapters of my collegiate career, I was lucky enough to work for several incredible companies that allowed me to build my arsenal of software engineering skills by working on consumer-facing products, under the guidance of expert developers.
+				My name is Andrew van Tonningen, and I am a Software Application Engineer at Workday.
 			</p>
-			<p class="in_text_text">
+			<!-- <p class="in_text_text">
+				During the various chapters of my collegiate career, I was lucky enough to work for several incredible companies that allowed me to build my arsenal of software engineering skills by working on consumer-facing products, under the guidance of expert developers.
+			</p> -->
+			<!-- <p class="in_text_text">
 				At the beginning of my Sophomore year, I (an unexperienced developer) joined Stratovan Corporation as an Analyst Intern, where I worked on applying their existing products to new problems.  Once I felt that I had accrued enough experience in my classes to write useful code, I was given a mentor and assigned small coding tasks on a product.  I worked on this product under the guidance my mentor for roughly six months, which brought about summer break.
 			</p>
 			<p class="in_text_text">
@@ -26,7 +29,7 @@
 				At the same time that I joined the SimpleLift project, I was given full engineering and management responsibilities for my product at Stratovan.  I have found an incredible amount of joy working on this project, and it is still in active development.  The code-base at Stratovan is excellent, and I am always just a few feet away from an expert engineer who is willing to answer architectural, mathematical, or syntactical queries.  For these reasons, my work at Stratovan has been incredible growthful for my talent as a software engineer.  Additionally, I have had the opportunity to interface with customers who will be consuming my product, and have been able to give them an active voice in the development process.
 			</p>
 			<p class="in_text_text">
-				It is worth noting that I have been writing software for classes for my entire college career, and these have had a major impact on my aptitude for software engineering.  I found my junior year especially growthful, as I began taking challenging upper-division courses.
+				It is worth noting that I have been writing software for classes for my entire college career, and these have had a major impact on my aptitude for software engineering.  I found my junior year especially growthful, as I began taking challenging upper-division courses. -->
 
 		</div>
 	</div>

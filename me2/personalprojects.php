@@ -11,11 +11,11 @@
 		<div class="in_text">
 			<p class="in_text_heading"> <a class = "header_link" href="../haunted/haunted_index.html"> Haunted Mansion </a> </p>
 			<p class="in_text_heading"> <a class = "header_link" href="../grateful/grateful_index.html"> What Are You Grateful For Today? </a> </p>
-			<p class="in_text_heading" color="#FF3B3F"> Spotify Power Hour App </p>
+			<p class="in_text_heading"> <font color="#FF3B3F"> Power Pregame </font>  </p>
 			<p class="in_text_text">
-				A unreleased app that guarantees a perfect pregame.
+				A unreleased app that harnesses your Spotify playlists to guarantee a perfect pregame, every time.
 			</p>
-			<p class="in_text_heading" color="#FF3B3F"> SimpleLift </p>
+			<p class="in_text_heading"> <font color="#FF3B3F">SimpleLift </font></p>
 			<p class="in_text_text">
 				Developed by the team at Kadlecek LLC.  You can get it <a class="header_link" href="https://itunes.apple.com/us/app/simplelift-workout-tracker-and-lifting-app/id1083659710?mt=8"> here </a> on the app store.
 			</p>

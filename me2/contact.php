@@ -10,11 +10,11 @@
 				<?php include("header.php"); ?>
 				<div class="in_text">
 					<p class="in_text_no_indent">
-					Cell Phone: 408-832-8102
-					<br>
-					Email: avantonningen@ucdavis.edu
-					<br>
-					Github: https://github.com/andrewvt100
+						<a class="header_link" href="https://www.linkedin.com/in/andrew-van-tonningen/"> LinkedIn </a>
+						<br>
+						<a class="header_link" href="https://github.com/andrewvt100"> Github </a>
+						<br>
+						Email: andrewkvt18@gmail.com
 					</p>
 				</div>
 			</div>
