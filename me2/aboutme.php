@@ -2,13 +2,13 @@
 
 <html>
 	<head>
-		<?php include($_SERVER['DOCUMENT_ROOT']."me2/head.php"); ?>
+		<?php include("head.php"); ?>
 	</head>
 	<body class="whole_page">
 		<div id="wrap">
 			<div id="main">
 
-		<?php include($_SERVER['DOCUMENT_ROOT']."me2/header.php"); ?>
+		<?php include("header.php"); ?>
 		<div class="in_text">
 			<p class="in_text_text">
 				My name is Andrew van Tonningen, and I am a senior Computer Science major and Regents Scholar at UC Davis, set to graduate in June of 2018.  During the various chapters of my collegiate career, I was lucky enough to work for several incredible companies that allowed me to build my arsenal of software engineering skills by working on consumer-facing products, under the guidance of expert developers.
@@ -33,6 +33,6 @@
 </div>
 	</body>
 	<footer>
-		<?php include($_SERVER['DOCUMENT_ROOT']."me2/footer.php"); ?>
+		<?php include("footer.php"); ?>
 	</footer>
 </html>
