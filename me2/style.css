@@ -39,7 +39,7 @@ body {
 .separator_line {
 	border-bottom-width: 1px;
 	border-bottom-style: solid;
-	border-bottom-color: FFFFFF;
+	border-bottom-color: #FFFFFF;
 }
 
 .buffer_zone {
@@ -121,7 +121,7 @@ body {
 */
 
 a.header_link {
-	color: FF3B3F;
+	color: #FF3B3F;
 	text-decoration: none;
 }
 
@@ -132,14 +132,14 @@ a.header_link:visited {
 }
 
 a.header_link:hover {
-	color: 990000;
+	color: #990000;
 }
 
 a.header_link:active	 {
 }
 
 a.in_text_link {
-	color: FFFFFF;
+	color: #FFFFFF;
 	text-decoration: none;
 }
 
@@ -150,7 +150,7 @@ a.in_text_link:visited {
 }
 
 a.in_text_link:hover {
-	color: 000000;
+	color: #000000;
 }
 
 a.in_text_link:active	 {
