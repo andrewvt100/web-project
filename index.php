@@ -10,8 +10,8 @@
 
 		<?php include("header.php"); ?>
 		<div class="in_text">
-			<p class="in_text_text">
-				My name is Andrew van Tonningen, and I am a Software Application Engineer at Workday.
+			<p class="in_text_no_indent">
+				My name is Andrew van Tonningen, and I am a Software Application Engineer at Workday.  I graduated from UC Davis with a degree in Computer Science in June 2018.
 			</p>
 			<!-- <p class="in_text_text">
 				During the various chapters of my collegiate career, I was lucky enough to work for several incredible companies that allowed me to build my arsenal of software engineering skills by working on consumer-facing products, under the guidance of expert developers.

@@ -7,10 +7,10 @@
 </div>
 <div class="tab_container">
 	<div class="nav_tab">
-		<a class="header_link" href="personalprojects.php"> Projects </a>
+		<a class="header_link" href="index.php"> About Me </a>
 	</div>
 	<div class="nav_tab">
-		<a class="header_link" href="index.php"> About Me </a>
+		<a class="header_link" href="personalprojects.php"> Projects </a>
 	</div>
 	<div class="nav_tab">
 		<a class="header_link" href="workexperience.php"> Work Experience </a>
