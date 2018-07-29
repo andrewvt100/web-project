@@ -1,0 +1,233 @@
+/* thunderclap sound: */
+/* house : https://openclipart.org/detail/287842/haunted-house-silhouette */
+
+ /************************* MARK: REGULAR CSS *************************** */
+
+html,body {
+	display:block;
+	position: relative;
+
+    padding:0;
+    margin:0;
+    height:100%;
+    width:100%;
+}
+
+/* @keyframes transparentani {
+    1%  {background-color:transparent;}
+    2%  {background-color:black;}
+    6%  {background-color:transparent;}
+    7%  {background-color:black;}
+    8%  {background-color:transparent;}
+    9%  {background-color:black;}
+    100% {background-color:black;}
+}*/
+
+#houseimage {
+	display: block;
+	position: relative;
+
+	text-align: center;
+	z-index:-1;
+	top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+#sill {
+	
+    display: inline;
+	position: absolute;
+	background-color: black;
+
+	width: 50%;
+	height: 50%;
+	left: 0;
+	top: 0;
+}
+
+#black-layer {
+	display: inline;
+	position: absolute;
+	background-color: red;
+
+	z-index:10; 
+	width: 100%;
+	height: 100%;
+	left: 0;
+	top: 0;
+}
+
+#top-div {
+	display: block;
+	position: relative;
+
+	height: 33.33%;
+    background-color: black;
+/*  	animation-name: transparentani;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    -webkit-animation-play-state: paused;*/
+}
+
+#middle-div {
+	display: block;
+	position: relative;
+
+	height: 33.33%;
+	background-color: black;
+/*	animation-name: transparentani;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    -webkit-animation-play-state: paused;*/
+}
+
+#bottom-div {
+	display: block;
+	position: relative;
+
+	height: 33.33%;
+	background-color: black;
+/*	animation-name: transparentani;
+    animation-duration: 0.5s;
+    -webkit-animation-play-state: paused;*/
+}
+
+#main-title {
+	display: block;
+	position: relative;
+
+    font-family: 'Kavivanar', cursive;
+	text-align: center;
+	font-size: 120px;
+	color: red;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    width: 100%;
+    height: auto;
+}
+
+#sub-title {
+	display: block;
+	position: relative;
+
+    font-family: 'Kavivanar', cursive;
+	text-align: center;
+	font-size: 80px;
+	color: red;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    width: 100%;
+    height: auto;
+}
+
+#textbox {
+	display: block;
+	position: relative;
+
+	top: 33%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    width: 50%;
+    height: 50px;
+
+    border: solid;
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: grey;
+
+    font-size: 40px;
+	font-family: 'Lobster', cursive;
+	text-align: center;
+}
+
+#button {
+	display: block;
+	position: relative;
+
+	top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    width: auto;
+    height: auto;
+
+    background-color: transparent;
+
+    border: solid;
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: transparent;
+    color: red;
+
+    font-size: 40px;
+    font-family: 'Kavivanar', cursive;
+	text-align: center;
+
+}
+
+#button:hover {
+	color: white;
+	/*background-color: lightgray;*/
+}
+
+/* *********************** MARK: LIGHTNING ********************************** */
+
+/* *************************** MARK: DEV OVERLAY ************************** */
+
+/*#left-vertical {
+	display: inline;
+	position: absolute;
+
+	z-index:9; 
+	width: 2px;
+	height: 100%;
+	background-color: black;
+	left: 33.33%;
+}
+
+#right-vertical {
+	display: inline;
+	position: absolute;
+
+	z-index:9; 
+	width: 2px;
+	height: 100%;
+	background-color: black;
+	left: 66.66%;
+}
+
+#top-horizontal {
+	display: inline;
+	position: absolute;
+
+	z-index:9; 
+	width: 100%;
+	height: 2px;
+	background-color: black;
+	top: 33.33%;
+}
+
+#bottom-horizontal {
+	display: inline;
+	position: absolute;
+
+	z-index:9; 
+	width: 100%;
+	height: 2px;
+	background-color: black;
+	top: 66.66%;
+}
+
+#middle-div {
+	background-color: grey;
+}
+
+#sub-title {
+	background-color: blue;
+}
+
+#main-title {
+	background-color: red;
+}

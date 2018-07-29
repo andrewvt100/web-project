@@ -1,0 +1,36 @@
+<html>
+	<head>
+		<?php include($_SERVER['DOCUMENT_ROOT']."/head.php"); ?>
+	</head>
+	<body class="whole_page">
+		<div id="wrap">
+			<div id="main">
+
+		<?php include($_SERVER['DOCUMENT_ROOT']."/header.php"); ?>
+		<div class="in_text">
+			<p class="in_text_text">
+				My name is Andrew van Tonningen, and I am a senior Computer Science major and Regents Scholar at UC Davis, set to graduate in June of 2018.  During the various chapters of my collegiate career, I was lucky enough to work for several incredible companies that allowed me to build my arsenal of software engineering skills by working on consumer-facing products, under the guidance of expert developers.
+			</p>
+			<p class="in_text_text">
+				At the beginning of my Sophomore year, I (an unexperienced developer) joined Stratovan Corporation as an Analyst Intern, where I worked on applying their existing products to new problems.  Once I felt that I had accrued enough experience in my classes to write useful code, I was given a mentor and assigned small coding tasks on a product.  I worked on this product under the guidance my mentor for roughly six months, which brought about summer break.
+			</p>
+			<p class="in_text_text">
+				During these three months, I worked at Intel Security (now-and-formerly McAfee, the computer security company).  I contributed to projects in their Executive Briefing Center, building networks that were used to demonstrate their products to customer C-level executives and taking part in several of these demonstrations.  Aside from the technical knowledge that I gained, I learned how to be effective in a large company, and some essential tips for selling a product.  My manager, the many-talented Michael Ingoldby, showed me that story-telling is an essential art to persuade an audience that you have the best solution for their problem.
+			</p>
+			<p class="in_text_text">
+				At the beginning of Fall 2016, I started to write a lot more code.  Ryan Stenberg (now a founder of the Y-Combinator-graduate company Tutorfly), asked me to join a small team that was working on an iOS application called SimpleLift.  Having no prior experience developing for the iOS platform, the first two months of this effort were spent traversing a steep learning curve as I picked up Swift and began to understand the intricacies of Apple's development frameworks.  Six months into my involvement, SimpleLift was published to the app store.  What a feeling!  My involvement has since decreased, but I still actively contribute.
+			</p>
+			<p class="in_text_text">
+				At the same time that I joined the SimpleLift project, I was given full engineering and management responsibilities for my product at Stratovan.  I have found an incredible amount of joy working on this project, and it is still in active development.  The code-base at Stratovan is excellent, and I am always just a few feet away from an expert engineer who is willing to answer architectural, mathematical, or syntactical queries.  For these reasons, my work at Stratovan has been incredible growthful for my talent as a software engineer.  Additionally, I have had the opportunity to interface with customers who will be consuming my product, and have been able to give them an active voice in the development process.
+			</p>
+			<p class="in_text_text">
+				It is worth noting that I have been writing software for classes for my entire college career, and these have had a major impact on my aptitude for software engineering.  I found my junior year especially growthful, as I began taking challenging upper-division courses.
+
+		</div>
+	</div>
+</div>
+	</body>
+	<footer>
+		<?php include($_SERVER['DOCUMENT_ROOT']."/footer.php"); ?>
+	</footer>
+</html>

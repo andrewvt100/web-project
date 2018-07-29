@@ -1,0 +1,181 @@
+/** {
+  margin: 0;
+  padding: 0;
+}*/
+
+html,
+body {
+  height: 100%;
+}
+
+#wrap {
+	min-height: 100%;
+}
+
+#main {
+	overflow: auto;
+  	padding-bottom: 30px;
+}
+
+
+/*
+------------------------------------------------------
+-------------------WHOLE PAGE STYLING-----------------
+------------------------------------------------------
+*/
+
+
+.whole_page {
+	background-color: 292B37;
+	margin:0;
+}
+
+/*
+------------------------------------------------------
+---------------------HEADER STYLING-------------------
+------------------------------------------------------
+*/
+
+.separator_line {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: FFFFFF;
+}
+
+.buffer_zone {
+	padding-top: 10px;
+}
+
+.tab_container {
+	text-align: center
+}
+
+.nav_tab {
+	padding-right: 10px;
+	padding-left: 10px;
+	display: inline;
+	font-size: 28;
+	font-family: Oswald;
+}
+
+.name_section {
+	font-family: "Open Sans";
+	font-size: 36;
+	color: white;
+	background-color: 292B37;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.name_section_footer {
+	font-family: "Open Sans";
+	font-size: 12;
+	color: white;
+	background-color: 292B37;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.footer {
+	position: relative;
+	margin-top: -30px;
+	height: 30px;
+	clear: both;
+}
+
+/*
+------------------------------------------------------
+-----------------MAIN DATA SECTIONS-------------------
+------------------------------------------------------
+*/
+
+.in_text {
+	font-family: "Open Sans", sans-serif;
+	color: FFFFFF;
+	font-size: 20px;
+}
+
+.in_text_heading {
+	padding-left: 60px;
+	color: White;
+	font-size: 28px;
+}
+
+.in_text_text {
+	padding-left:60px;
+	padding-right: 60px;
+	text-indent: 2em;
+}
+
+.in_text_no_indent {
+	padding-left:60px;
+	padding-right: 60px;
+}
+
+/*
+------------------------------------------------------
+---------------------LINK STYLING---------------------
+------------------------------------------------------
+*/
+
+a.header_link {
+	color: FF3B3F;
+	text-decoration: none;
+}
+
+a.header_link:link {
+}
+
+a.header_link:visited {
+}
+
+a.header_link:hover {
+	color: 990000;
+}
+
+a.header_link:active	 {
+}
+
+a.in_text_link {
+	color: FFFFFF;
+	text-decoration: none;
+}
+
+a.in_text_link:link {
+}
+
+a.in_text_link:visited {
+}
+
+a.in_text_link:hover {
+	color: 000000;
+}
+
+a.in_text_link:active	 {
+}
+
+/*
+------------------------------------------------------
+-------------------------NOTES------------------------
+------------------------------------------------------
+*/
+
+/*
+color: 292B37  new scheme background
+color: FF3B3F  new scheme tab colors
+color: FFFFFF  new scheme text/title/separatorLine color
+color: 990000  new scheme hover color
+
+font-family: Oswald  new scheme tab font
+font-family: Open Sans  new scheme main font and title font
+
+color: CAEBF2;  light blue
+color: A9A9A9;  grey
+color: FF3B3F;  pinkish red
+color: 545454;  darker grey
+color: EFEFEF;  background grey
+color: 333333;  new dark
+color: 990000;  maroon
+*/
