@@ -2,13 +2,17 @@
 
 <html>
 	<head>
-	<!--#include file="head.html" -->
+		<div id="head-1"></div>
+		<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+		<script type="text/javascript">
+		$(document).ready(function(){
+	        $("#head-1r").load("head.html");
+		});
+		</script>
 	</head>
 	<body class="whole_page">
 		<div id="wrap">
 			<div id="main">
-
-		<!--#include file="header.html" -->
 		<div class="in_text">
 			<p class="in_text_text">
 				My name is Andrew van Tonningen, and I am a senior Computer Science major and Regents Scholar at UC Davis, set to graduate in June of 2018.  During the various chapters of my collegiate career, I was lucky enough to work for several incredible companies that allowed me to build my arsenal of software engineering skills by working on consumer-facing products, under the guidance of expert developers.
@@ -33,6 +37,5 @@
 </div>
 	</body>
 	<footer>
-		<!--#include file="footer.html" -->
 	</footer>
 </html>
