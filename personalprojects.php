@@ -9,14 +9,10 @@
 			<div id="main">
 		<?php include("header.php"); ?>
 		<div class="in_text">
-			<p class="in_text_heading"> Haunted Mansion </p>
+			<p class="in_text_heading"> GridGame </p>
 			<p class="in_text_text">
-				Experimentation with animation in HTML/CSS: <a class = "header_link" href="haunted/haunted_index.html"> Haunted Mansion </a>
-			</p> 
-			<p class="in_text_heading"> What Are You Grateful For Today? </p>
-			<p class="in_text_text">
-				Prototype landing page written for a friend, who wanted to start a service to encourage people to think of what they're grateful for: <a class = "header_link" href="grateful/grateful_index.html"> Grateful </a>
-			</p> 
+				Experimentation in Python with the A* search algorithm.  Draw walls, and watch the player pick a path using A* and navigate to the new location.  Left click to select the player, shift-left click to draw walls, and right-click to move the player to a new location.  Configurable pathing algorithms coming soon.  <a class = "header_link" href="https://github.com/andrewvt100/GridGame"> Link </a> to the Github repo.
+			</p>
 			<p class="in_text_heading"> Power Pregame </p>
 			<p class="in_text_text">
 				A unreleased app that harnesses your Spotify playlists to guarantee a perfect pregame, every time.
@@ -24,6 +20,14 @@
 			<p class="in_text_heading"> SimpleLift </p>
 			<p class="in_text_text">
 				Developed by the team at Kadlecek LLC.  You can get it <a class="header_link" href="https://itunes.apple.com/us/app/simplelift-workout-tracker-and-lifting-app/id1083659710?mt=8"> here </a> on the app store.
+			</p>
+			<p class="in_text_heading"> Haunted Mansion </p>
+			<p class="in_text_text">
+				Experimentation with animation in HTML/CSS: <a class = "header_link" href="haunted/haunted_index.html"> Haunted Mansion </a>
+			</p> 
+			<p class="in_text_heading"> What Are You Grateful For Today? </p>
+			<p class="in_text_text">
+				Prototype landing page written for a friend, who wanted to start a service to encourage people to think of what they're grateful for: <a class = "header_link" href="grateful/grateful_index.html"> Grateful </a>
 			</p>
 <!-- 			<p class="in_text_heading"> Warcraft 2 iOS Port </p>
 			<p class="in_text_text">
