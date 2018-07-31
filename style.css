@@ -41,13 +41,24 @@ body {
 	border-bottom-style: solid;
 	border-bottom-color: #FFFFFF;
 }
+ 
+.buffer_zone_a {
+	padding-top: 20px;
+}
 
-.buffer_zone {
+.buffer_zone_b {
 	padding-top: 10px;
 }
 
 .tab_container {
-	text-align: center
+	text-align: center;
+	float: right;
+	padding-right: 10px;
+}
+
+.logo_container {
+	float: left;
+	padding-left: 10px; 
 }
 
 .nav_tab {
