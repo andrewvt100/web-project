@@ -26,7 +26,8 @@ body {
 
 
 .whole_page {
-	background-color: #292B37;
+	background-color: #FFFFFF;
+	/*background-color: #292B37;*/
 	margin:0;
 }
 
@@ -39,41 +40,45 @@ body {
 .separator_line {
 	border-bottom-width: 1px;
 	border-bottom-style: solid;
-	border-bottom-color: #FFFFFF;
+	/*border-bottom-color: #FFFFFF;*/
+	border-bottom-color: #292B37;
 }
  
 .buffer_zone_a {
-	padding-top: 20px;
+	padding-top: 40px;
 }
 
 .buffer_zone_b {
-	padding-top: 10px;
+	padding-top: 5px;
 }
 
-.tab_container {
+.tab_container { 
 	text-align: center;
 	float: right;
-	padding-right: 10px;
+	padding-right: 20px;
+	padding-top: 20px;
 }
 
 .logo_container {
 	float: left;
-	padding-left: 10px; 
+	padding-left: 0px; 
 }
 
 .nav_tab {
 	padding-right: 10px;
 	padding-left: 10px;
+	padding-top: 20px;
 	display: inline;
-	font-size: 28;
-	font-family: Oswald;
+	font-size: 60;
+	font-family: Oswald; 
 }
 
 .name_section {
 	font-family: "Open Sans";
-	font-size: 36;
+	font-size: 60;
 	color: white;
-	background-color: #292B37;
+	/*background-color: #292B37;*/
+	background-color: #FFFFFF;
 	text-align: center;
 	padding-top: 10px;
 	padding-bottom: 10px;
@@ -82,8 +87,10 @@ body {
 .name_section_footer {
 	font-family: "Open Sans";
 	font-size: 12;
-	color: white;
-	background-color: #292B37;
+	/*color: #FFFFFF;*/
+	color: #292B37;
+	/*background-color: #292B37;*/
+	background-color: #FFFFFF;
 	text-align: center;
 	padding-top: 10px;
 	padding-bottom: 10px;
@@ -104,13 +111,15 @@ body {
 
 .in_text {
 	font-family: "Open Sans", sans-serif;
-	color: #FFFFFF;
+	/*color: #FFFFFF;*/
+	color: #292B37;
 	font-size: 20px;
 }
 
 .in_text_heading {
 	padding-left: 60px;
-	color: #FFFFFF;
+	/*color: #FFFFFF;*/
+	color: #292B37;
 	font-size: 28px;
 }
 
