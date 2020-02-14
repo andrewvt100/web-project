@@ -143,6 +143,7 @@ body {
 a.header_link {
 	color: #FF3B3F;
 	text-decoration: none;
+	font-size: 25px;
 }
 
 a.header_link:link {
